@@ -1,56 +1,29 @@
-<body>
-<h1 align="center">⚜️  𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮  ⚜️</h1>
-<br>
-<div align="center">
-<img src="https://i.imgur.com/l4eUP2C.gif">
-</div>
-<br>
-<div>
-<h2 align="center"> 🤗 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🤗 </h2>
-<img src="https://i.imgur.com/eQOykss.gif" align="left" width="373.5px" height="208.5px">
-<li>
-<b>➖ Họ Tên:</b> Duy</li>
-<li>
-<b>➖ Biệt danh:</b> Shinn > ~ <
-</li>
-<li>
-<b>➖ Sở thích:</b> Anime , Truyện , Game Và Em  -///-
-</li>
-<li>
-<b>➖ Tiểu sử:</b> Tui 2k5 Và Đang Học Tại Quan Hoá , Thanh Hoá
-</li>
-<li>
-<b>➖ Dev:</b> SiestaBot
-</li>
-<br>
-<p><b>     Thông cảm nha tui là wibu nên<br>
-                  cái profile hơi cute xíu..</b></p>
-</div>
-<div>
-<h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
-<p>
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
-</div>
-<div>
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-Tui có biết đôi chút về nodejs ,mấy cái còn lại thì tui đang học , mong mọi nguời giúp đỡ tui >~<
+# Hi 👋, I'm Duy Anh Đặng
+
+### Sinh viên HAU IT vượt lười:)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SiesShinn162&label=Profile views&color=0e75b6&style=flat" alt="SiesShinn162" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiesShinn162" alt="SiesShinn162" /></a> </p>
+
+- 🌱 I'm currently learning **JAVA , JAVASCRIPT , PYTHON**
+
+- 👯 I'm looking to collaborate on **open source**
+
+- 📫 How to reach me **sies1625@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/SiesShinn162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SiesShinn162" height="30" width="40" /></a>
+<a href="https://fb.com/sies.dda.16205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sies.dda.16205" height="30" width="40" /></a>
 </p>
-<br>
-<h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-<img src="https://i.imgur.com/KXx0cCx.gif" align="left" width="373.5px" height="208.5px">
-<br>
-<p align="center">Một số cách bạn có thể liên lạc <br>
-zới tui >~< </p>
-<p align="center"><a href="https://www.facebook.com/veno.100019931317938472uavff/" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"/></a> <a href="https://www.instagram.com/shinbb160/" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram"/></a></p>
-</div>
-<br>
-<div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-<div align="center">
-<img src="https://i.imgur.com/T5uossV.gif">
-</div>
-<hr>
-</div>
-</div>
-</body>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SiesShinn162&show_icons=true&locale=en&layout=compact" alt="SiesShinn162" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SiesShinn162&show_icons=true&locale=en" alt="SiesShinn162" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SiesShinn162&" alt="SiesShinn162" /></p>
+
