@@ -1,29 +1,61 @@
-# Hi 👋, I'm Duy Anh Đặng
+<div align="center">
 
-### Sinh viên HAU IT vượt lười:)
+<img src="https://komarev.com/ghpvc/?username=SiesShinn162&label=Profile%20Views&color=0e75b6&style=flat" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SiesShinn162&label=Profile views&color=0e75b6&style=flat" alt="SiesShinn162" /> </p>
+# 👋 Hi, I'm **Duy Anh Đặng**
+### 💻 IT Student @ HAUER
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiesShinn162" alt="SiesShinn162" /></a> </p>
+> *"Lười thủ học code."* 🚀  
 
-- 🌱 I'm currently learning **JAVA , JAVASCRIPT , PYTHON**
+</div>
 
-- 👯 I'm looking to collaborate on **open source**
+---
 
-- 📫 How to reach me **sies1625@gmail.com**
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🎓 Sinh viên **Công nghệ Thông tin – Đại học Kiến Trúc Hà Nội (HAU)**
+- 🌱 Hiện đang học và thực hành:
+  - **Java (Core / OOP / Swing)**
+  - **JavaScript (Basic / Node.js)**
+  - **Python (Automation / Image Processing)**
+- 👯 Mong muốn tham gia **Open Source** & dự án thực tế
+- 🎯 Mục tiêu: Game Develeoper
+
+---
+
+## 🛠️ Languages & Tools
+
 <p align="left">
-<a href="https://github.com/SiesShinn162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SiesShinn162" height="30" width="40" /></a>
-<a href="https://fb.com/sies.dda.16205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sies.dda.16205" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=java,js,py,cpp,cs,nodejs,mysql,unity&perline=4" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SiesShinn162&show_icons=true&locale=en&layout=compact" alt="SiesShinn162" /></p>
+## 🤝 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SiesShinn162&show_icons=true&locale=en" alt="SiesShinn162" /></p>
+<p align="left">
+  <a href="https://github.com/SiesShinn162" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/>
+  </a>
+  <a href="https://fb.com/sies.dda.16205" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SiesShinn162&" alt="SiesShinn162" /></p>
+📫 **Email:** `sies1625@gmail.com`
 
+---
+
+## 🎨 Wibu học ngu
+
+<p align="center">
+  <img width="50%" src="https://media.discordapp.net/attachments/941689893023801407/1453816625143873687/tai_xuong.jpg?ex=694ed3be&is=694d823e&hm=0e0ba68176d7656c8c3116efd3978fb3b4b57986badda5670485ab927e555afa&=&format=webp&width=919&height=651" />
+  <img width="50%" src="https://media.discordapp.net/attachments/941689893023801407/1453816625471033446/By_toumei_shikisoTaniky_AIart_AIgirl_nijijourney.jpg?ex=694ed3be&is=694d823e&hm=fb5ff6b8cef9527dc80f6bed9bc5b4cd5cb26516967bf34fc4c1e3850265c566&=&format=webp&width=920&height=436" />
+</p>
+
+---
+
+<div align="center">
+
+✨ *Thanks for visiting my profile!* ✨  
+</div>
